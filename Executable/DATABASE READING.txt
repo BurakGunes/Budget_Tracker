@@ -1,0 +1,14 @@
+WHAT DOES EACH COLUMN MEAN?
+
+==========================================================================================
+
+users.csv file lacks the following header: 
+
+"username,password,name,surname,suffix,gender,region,currency,balance,ID,TRANSACTIONS_FILE"
+
+(ID)_transactions.csv file(s) does not include the following header : 
+
+"transaction type, amount, date, comments"
+
+==========================================================================================
+

@@ -1,0 +1,5 @@
+Absolute Layout inside the "lib" folder should not be removed. 
+
+=============================================================
+
+Data inside the files are encyrpted. Therefore, you can not recover your password or username. 
